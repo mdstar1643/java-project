@@ -1,4 +1,4 @@
 # java-project
-This is my first repo
+This is my first git repo
 <br>
 auther - Mohammad Imtiyaz
